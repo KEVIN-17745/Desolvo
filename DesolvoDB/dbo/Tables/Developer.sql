@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Developer]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] NVARCHAR(50) NOT NULL, 
+    [Surename] NVARCHAR(50) NOT NULL
+)

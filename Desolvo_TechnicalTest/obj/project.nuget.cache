@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EiqDEtS+/Zt/xOUfZihsXsn1QiWexV1nyhKN8oVPMaH2MkGR1Gb6VTdQH32X5b/JrV76lnCUCmVYLMPET/PB8g==",
+  "dgSpecHash": "ay5SjQht55jS00OXygeSoRK98Qu9X0d2IjAErdTBQpN2vV81JVS01GgGKQHHOblK7DulxQFH3HxX7PSKvxPXnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kevin\\Documents\\GitHub\\Desolvo_TechnicalTest\\Desolvo_TechnicalTest\\Desolvo_TechnicalTest.csproj",
+  "projectFilePath": "C:\\Users\\kevin\\Documents\\GitHub\\Desolvo_TechnicalTest_New\\Desolvo\\Desolvo_TechnicalTest\\Desolvo_TechnicalTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,10 +1,10 @@
-﻿namespace DataAccess.Data.Models
+﻿namespace DataAccess.Models
 {
     public class DeveloperSkill
     {
         public int Id { get; set; }
 
-        public  int IdDeveloper { get; set; }
+        public int IdDeveloper { get; set; }
 
         public int IdSkill { get; set; }
 

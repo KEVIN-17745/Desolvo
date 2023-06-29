@@ -1,4 +1,4 @@
-﻿namespace DataAccess.Data.Models
+﻿namespace DataAccess.Models
 {
     public class Developer
     {

@@ -1,4 +1,4 @@
-﻿namespace DataAccess.Data.Models
+﻿namespace DataAccess.Models
 {
     public class Skill
     {
@@ -8,6 +8,6 @@
 
         public ICollection<DeveloperSkill> DeveloperSkills { get; set; }
 
-       
+
     }
 }
